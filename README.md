@@ -19,6 +19,10 @@ Please ensure that your environment has the following prerequisites installed.
 ### MATLAB
 To successfully run the MATLAB scripts, you will need the following toolboxes:
 
+QETLAB：https://qetlab.com/
+
+state_tomography：https://research.physics.illinois.edu/QI/Photonics/tomography/
+
 CVX: https://cvxr.com/cvx/ A modeling system for constructing and solving disciplined convex programs.
 
 CVXQUAD: https://github.com/hfawzi/cvxquad An extension for CVX that adds support for functions involving the matrix logarithm, exponential, and entropy.
