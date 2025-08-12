@@ -30,9 +30,7 @@ CVXQUAD: https://github.com/hfawzi/cvxquad An extension for CVX that adds suppor
 Solver: We recommend using MOSEK as the solver for CVX to achieve the best performance and stability. However, other CVX-compatible solvers (e.g., SDPT3, SeDuMi) are also supported.
 
 ### Python
-The Python environment requires the following standard scientific computing libraries:
-
-pandas numpy matplotlib torch scipy
+The Python environment requires the following standard scientific computing libraries: pandas numpy matplotlib torch scipy
 
 You can quickly install these dependencies using pip:
 
